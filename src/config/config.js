@@ -1,13 +1,13 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_FIREBASE_KEY,
-  authDomain: process.env.REACT_APP_FIREBASE_DOMAIN,
-  projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
-  storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_FIREBASE_SENDER_ID,
-  appId: process.env.REACT_APP_FIREBASE_APP_ID,
-  measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID,
+  apiKey: "AIzaSyCsUC5jAUlF0vrXCq-BjIEjaq4FEc_-Xnc",
+  authDomain: "tasks-services.firebaseapp.com",
+  projectId: "tasks-services",
+  storageBucket: "tasks-services.appspot.com",
+  messagingSenderId: "699559013948",
+  appId: "1:699559013948:web:08a17bd9b6a20323b51d39",
+  measurementId: "G-84CPJEVMH0",
 };
 
 // Initialize Firebase
