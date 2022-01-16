@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tasks_services/static/js/main.f8c561bb.js",
+    "main.js": "/tasks_services/static/js/main.b663adb5.js",
     "index.html": "/tasks_services/index.html",
-    "main.f8c561bb.js.map": "/tasks_services/static/js/main.f8c561bb.js.map"
+    "main.b663adb5.js.map": "/tasks_services/static/js/main.b663adb5.js.map"
   },
   "entrypoints": [
-    "static/js/main.f8c561bb.js"
+    "static/js/main.b663adb5.js"
   ]
 }
